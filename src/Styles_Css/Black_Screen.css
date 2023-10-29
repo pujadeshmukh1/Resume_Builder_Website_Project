@@ -1,0 +1,14 @@
+/*======== Black Screen======== */
+
+.black-screen {
+  background-color: black;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  right: 0;
+  visibility: hidden;
+  z-index: 3;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

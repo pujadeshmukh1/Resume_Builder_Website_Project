@@ -1,0 +1,18 @@
+/* ===========NextButton Back=========== */
+.back-next-btn-cont {
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+
+.MuiButtonBase-root.MuiButton-root.outlined-btn,
+.MuiButtonBase-root.MuiButton-root.contained-btn {
+  text-transform: capitalize;
+  width: 100px;
+}
+
+
+
+
